@@ -1,0 +1,21 @@
+# МОДИФИЦИРОВАНО
+
+# Setup
+title:               HedWeb-RU
+url:                 https://hedweb-ru.github.io
+baseurl:             ''
+permalink:           /:categories/:title:output_ext
+
+# Admin contacts
+admin:
+  email: latif.rosh@gmail.com
+  vk: https://vk.com/hedweb
+  telegram: https://t.me/hedweb
+
+# Custom vars
+collections:
+  articles:
+    output: true
+    permalink: /:categories/:title:output_ext
+    
+google_analytics: G-QZN9WZ128V
