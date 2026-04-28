@@ -1,4 +1,4 @@
-<h3>Содержание:</h3>
+<h3><a href="{{ site.baseurl }}/hi/contents.html" style="text-decoration: none; color: black">Содержание:</a></h3>
 
 <ul style="list-style-type: none">
 <li><a href="{{ site.baseurl }}/hi/abstract.html">Аннотация</a></li>
