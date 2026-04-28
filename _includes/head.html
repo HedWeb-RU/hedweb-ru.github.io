@@ -5,7 +5,7 @@
 
   <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1">
 
-  <meta property="og:title" content="{{ page.title }}{% if page.subtitle %} | {{ page.subtitle }}{% endif %}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}">
+  <meta property="og:title" content="{% if include.title %}{{ include.title }}{% else %}{{ page.title }}{% if page.subtitle %}. {{ page.subtitle }}{% endif %}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}{% endif %}">
   <meta property="og:locale" content="ru">
   <meta property="og:site_name" content="HedWeb на русском">
   <meta property="og:url" content="{{ page.url | absolute_url }}">
@@ -20,9 +20,7 @@
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/assets/images/favicon-32x32.png' | relative_url }}">
   <link rel="icon" type="image/png" sizes="16x16" href="{{ '/assets/images/favicon-16x16.png' | relative_url }}">
   
-  <title>
-	{{ page.title }}{% if page.subtitle %} | {{ page.subtitle }}{% endif %}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}
-  </title>
+  <title>{% if include.title %}{{ include.title }}{% else %}{{ page.title }}{% if page.subtitle %}. {{ page.subtitle }}{% endif %}{% if page.authors %} | {{ page.authors | join: ", " }}{% endif %}{% endif %}</title>
   {% if page.url and site.baseurl %}
   <link rel="canonical" href="{{ page.url | absolute_url }}">
   {% endif %}
