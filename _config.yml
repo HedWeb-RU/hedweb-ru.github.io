@@ -9,8 +9,8 @@ permalink:           /:categories/:title:output_ext
 # Admin contacts
 admin:
   email: latif.rosh@gmail.com
-  vk: https://vk.com/hedweb
-  telegram: https://t.me/hedweb
+  vk: https://vk.com/hedweb_ru
+  telegram: https://t.me/hedweb_ru
 
 # Custom vars
 collections:
