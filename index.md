@@ -17,7 +17,7 @@ excerpt: "Здесь выкладываются переводы работ фи
 ### Статьи:
 
 - [Перепрограммирование хищников](https://reducingsuffering.github.io/david-pearce-reprogramming-predators.html) (2009-2015)
-- [Квантовая этика? Страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) (2008-2015)
+- [Квантовая этика и страдания в мультивселенной](https://reducingsuffering.github.io/david-pearce-quantum-ethics-suffering-in-the-multiverse.html) (2008-2015)
 - [Нематериалистический физикализм: экспериментально проверяемая гипотеза](https://ubq124.wordpress.com/2020/03/25/%d0%bd%d0%b5%d0%bc%d0%b0%d1%82%d0%b5%d1%80%d0%b8%d0%b0%d0%bb%d0%b8%d1%81%d1%82%d0%b8%d1%87%d0%b5%d1%81%d0%ba%d0%b8%d0%b9-%d1%84%d0%b8%d0%b7%d0%b8%d0%ba%d0%b0%d0%bb%d0%b8%d0%b7%d0%bc-%d0%b4%d1%8d/) (2014-2025)
 - [Почему трансгуманизм может искоренить страдания: топ 5 причин](https://reducingsuffering.github.io/david-pearce-top-five-reasons-transhumanism-can-eliminate-suffering.html) (2010)
 
@@ -39,6 +39,7 @@ excerpt: "Здесь выкладываются переводы работ фи
 ### Критика от других авторов:
 
 - Брайан Томасик, [Утопия в будущем: насколько она вероятна?](https://reducingsuffering.github.io/brian-tomasik-how-likely-is-a-far-future-utopia.html) (2017)
+- Элиезер Юдковский, [Серьёзные истории](https://reducingsuffering.github.io/eliezer-yudkowsky-serious-stories.html) (2009)
 - Магнус Виндинг, [Почему многомировая интерпретация может не иметь существенных последствий для этики](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
 
 ### Рекомендуемые ресурсы: 
