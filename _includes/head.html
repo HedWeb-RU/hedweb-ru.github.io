@@ -13,7 +13,7 @@
   <meta property="og:description" content="{% if page.excerpt %}{{ page.excerpt | strip_html | truncatewords:30 }}{% else %}{{ page.content | strip_html | truncatewords:30 }}{% endif %}">
   <meta property="og:image" content="{% if page.preview_here %}{{ page.preview | absolute_url }}{% else %}{{ page.preview }}{% unless page.preview %}{{ "/assets/images/picture.png" | absolute_url }}{% endunless %}{% endif %}">
 
-  <link rel="shortcut icon" type="image/png" href="{{ '/assets/images/picture.png' | relative_url }}">
+  {% unless include.nopicture %}<link rel="shortcut icon" type="image/png" href="{{ '/assets/images/picture.png' | relative_url }}">{% endunless %}
   <link rel="icon" type="image/x-icon" href="{{ '/assets/images/favicon.ico' | relative_url }}">
   <link rel="favicon" sizes="64x64" href="{{ '/assets/images/favicon.ico' | relative_url }}">
   <link rel="apple-touch-icon" sizes="180x180" href="{{ '/assets/images/apple-touch-icon.png' | relative_url }}">
