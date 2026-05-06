@@ -4,7 +4,7 @@
 {% for t in site.data.book %}{% if t.id == page.id %}{% assign p = t %}{% break %}{% endif %}{% endfor %}
 {% assign pt=p.chapter | append: "." | append: p.section | append: ". " | append: p.title %}
 {% assign pt1="Гедонистический императив. " | append: pt | append: " | Дэвид Пирс" %}
-{% include head.html title=pt1 %}
+{% include head.html title=pt1 nopicture=true %}
 
 <body>
 
