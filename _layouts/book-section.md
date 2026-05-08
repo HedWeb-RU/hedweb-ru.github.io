@@ -30,7 +30,9 @@
 
 <hr style="margin: 8px; padding: 8px">
 
-<a href="/index.html">► на главную</a>
+<a href="/index.html">► на главную</a><br>
+
+<center>Оригинал: <a href="https://www.hedweb.com/">www.hedweb.com</a></center>
 
 </div>
 
