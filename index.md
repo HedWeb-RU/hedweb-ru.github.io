@@ -38,6 +38,7 @@ excerpt: "Здесь выкладываются переводы работ фи
 
 ### Критика от других авторов:
 
+- Брайан Томасик, [Против выдачи желаемого за действительное](https://reducingsuffering.github.io/brian-tomasik-against-wishful-thinking.html) (2013-2015)
 - Брайан Томасик, [Утопия в будущем: насколько она вероятна?](https://reducingsuffering.github.io/brian-tomasik-how-likely-is-a-far-future-utopia.html) (2017)
 - Элиезер Юдковский, [Серьёзные истории](https://reducingsuffering.github.io/eliezer-yudkowsky-serious-stories.html) (2009)
 - Магнус Виндинг, [Почему многомировая интерпретация может не иметь существенных последствий для этики](https://reducingsuffering.github.io/magnus-vinding-why-the-mwi-may-not-have-significant-ethical-implications.html) (2018)
