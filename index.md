@@ -27,7 +27,7 @@ excerpt: "Здесь выкладываются переводы работ фи
 
 ### Ответы на вопросы:
 
-- [Необходимо ли страдание для счастья?](https://reducingsuffering.github.io/david-pearce-q2.html) (2024)
+- [Нужно ли страдать, чтобы быть счастливыми?](https://reducingsuffering.github.io/david-pearce-q2.html) (2024)
 - [О закрытом, пустом и открытом индивидуализме](https://reducingsuffering.github.io/david-pearce-q1.html) (2019)
 
 ### Комментарии:
