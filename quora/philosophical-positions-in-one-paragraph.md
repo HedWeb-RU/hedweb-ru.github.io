@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: quora
 title: "Философские взгляды в одном параграфе"
 authors:
   - Дэвид Пирс
