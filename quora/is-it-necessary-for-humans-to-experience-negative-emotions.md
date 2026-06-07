@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: quora
 title: "Нужно ли страдать, чтобы быть счастливыми?"
 authors:
   - Дэвид Пирс
