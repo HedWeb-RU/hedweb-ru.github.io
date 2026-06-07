@@ -27,8 +27,9 @@ excerpt: "Здесь выкладываются переводы работ фи
 
 ### Ответы на вопросы:
 
-- [Нужно ли страдать, чтобы быть счастливыми?](https://reducingsuffering.github.io/david-pearce-q2.html) (2024)
-- [О закрытом, пустом и открытом индивидуализме](https://reducingsuffering.github.io/david-pearce-q1.html) (2019)
+- [Нужно ли страдать, чтобы быть счастливыми?](quora/is-it-necessary-for-humans-to-experience-negative-emotions.html) (2024)
+- [О закрытом, пустом и открытом индивидуализме](quora/closed-empty-and-open-individualism.html) (2019)
+- [Философские взгляды в одном параграфе](quora/philosophical-positions-in-one-paragraph.html) (2018)
 
 ### Комментарии:
 
