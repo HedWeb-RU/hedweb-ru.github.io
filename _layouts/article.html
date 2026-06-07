@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="ru">
+
+{% include head.html nopicture=true %}
+
+<body>
+
+{% include article-head.html %}
+
+<div class="container content">
+
+<div class="content">
+
+<h2>{{ page.title }}</h2>
+<div class="article-info">{{ page.original_date | join: " — " }} &#8195 <b>{{ page.authors | join: ", " }}</b></div>
+<hr style="margin-top: 0.2em; margin-bottom: 0.5em;">
+
+{{ content }}
+
+</div>
+
+<hr style="margin: 8px; padding: 8px">
+
+<a href="/index.html">► на главную</a><br>
+
+<center>Оригинал: <a href="{{ page.original }}">{{ page.original }}</a></center>
+
+</div>
+
+</body>
+
+</html>
