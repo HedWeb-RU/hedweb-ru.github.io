@@ -1,5 +1,5 @@
 ---
-layout: article
+layout: quora
 title: "О закрытом, пустом и открытом индивидуализме"
 authors:
   - Дэвид Пирс
