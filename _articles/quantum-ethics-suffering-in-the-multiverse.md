@@ -9,7 +9,6 @@ original_date:
   - 2008
   - 2015
 preview: assets/images/previews/ai-generated-8292218-.jpg
-preview_here: true
 hidden_comment: "Убрал некоторые ссылки + убрал sep"
 ---
 #### **Аннотация**
