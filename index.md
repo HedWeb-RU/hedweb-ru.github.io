@@ -27,9 +27,12 @@ excerpt: "Здесь выкладываются переводы работ фи
 
 ### Ответы на вопросы:
 
+- [Философские взгляды в одном параграфе](quora/philosophical-positions-in-one-paragraph.html) (2018)
 - [Нужно ли страдать, чтобы быть счастливыми?](quora/is-it-necessary-for-humans-to-experience-negative-emotions.html) (2024)
 - [О закрытом, пустом и открытом индивидуализме](quora/closed-empty-and-open-individualism.html) (2019)
-- [Философские взгляды в одном параграфе](quora/philosophical-positions-in-one-paragraph.html) (2018)
+- [Позиция по метаэтике](quora/position-on-meta-ethics.html) (2017-2018)
+- [За что люди будущего могут считать нас варварами?](quora/people-of-the-future-think-of-us-as-barbarians.html) (2018)
+- [Можно ли испытать опыт другого существа?](quora/possible-to-experience-the-conscious-experience-of-another-being.html) (2017)
 
 ### Комментарии:
 
