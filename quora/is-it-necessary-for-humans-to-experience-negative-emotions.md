@@ -9,6 +9,7 @@ original_date:
   - 2024.08.09
 translated_by: К. Кирдан
 hidden_comment: ссылки
+quora: https://www.quora.com/Is-it-necessary-for-humans-to-experience-negative-emotions-such-as-sadness-in-order-to-feel-happy-or-content-with-their-lives/answer/David-Pearce-18
 preview: assets/images/3c5f8252-3a0a-4745-8a13-424d1f705532.jpg
 excerpt: "Вопрос: Нужно ли людям испытывать негативные эмоции, такие как грусть, чтобы чувствовать себя счастливыми или довольными своей жизнью?"
 ---
