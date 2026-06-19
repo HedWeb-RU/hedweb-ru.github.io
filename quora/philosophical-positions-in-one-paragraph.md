@@ -9,6 +9,7 @@ original_date:
   - 2018.01.07
 translated_by: К. Кирдан
 hidden_comment: "убрал одну ссылку"
+quora: https://www.quora.com/What-are-your-philosophical-positions-in-one-paragraph/answer/David-Pearce-18
 excerpt: "«Каждый принимает пределы собственного видения за пределы мира.» (Шопенгауэр)"
 ---
 ### Вопрос:
