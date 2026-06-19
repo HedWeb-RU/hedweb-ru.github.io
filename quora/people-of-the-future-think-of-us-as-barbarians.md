@@ -8,6 +8,7 @@ original_date:
   - 2018.01.14
 translated_by: К. Кирдан
 hidden_comment: ссылки
+quora: https://www.quora.com/For-what-reasons-might-people-of-the-future-think-of-us-as-barbarians/answer/David-Pearce-18
 excerpt: "Вопрос: За что люди будущего могут считать нас варварами?"
 ---
 ### Вопрос:
