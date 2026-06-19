@@ -7,6 +7,8 @@ original: https://www.hedweb.com
 original_date:
   - 2017.07.08
 translated_by: К. Кирдан
+quora: https://www.quora.com/Would-it-be-theoretically-possible-to-experience-the-conscious-experience-of-another-being/answer/David-Pearce-18
+preview: assets/images/previews/0b7a2e8d-8761-490e-bd33-8331699972e8.jpg
 excerpt: "Вопрос: Возможно ли, теоретически, испытать сознательный опыт другого существа?"
 ---
 ### Вопрос:
