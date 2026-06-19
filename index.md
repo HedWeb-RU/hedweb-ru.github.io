@@ -33,6 +33,7 @@ excerpt: "Здесь выкладываются переводы работ фи
 - [Позиция по метаэтике](quora/position-on-meta-ethics.html) (2017-2018)
 - [За что люди будущего могут считать нас варварами?](quora/people-of-the-future-think-of-us-as-barbarians.html) (2018)
 - [Можно ли испытать опыт другого существа?](quora/possible-to-experience-the-conscious-experience-of-another-being.html) (2017)
+- [Есть ли смысл в страдании?](is-there-purpose-in-all-human-suffering.html) (2018)
 
 ### Комментарии:
 
