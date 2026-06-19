@@ -10,6 +10,7 @@ original_date:
 translated_by: К. Кирдан
 translation_details: "добавлены ссылки"
 hidden_comment: "убрал одну ссылку"
+quora: https://www.quora.com/What-does-David-Pearce-think-of-closed-empty-and-open-individualism/answer/David-Pearce-18
 preview: assets/images/b724fd60-8653-4d11-8c46-5e416f1c021a.jpg
 excerpt: "«Веданта учит, что сознание едино, все события разыгрываются в одном универсальном сознании, и нет множества разных “я”.» (Эрвин Шрёдингер, «Мой взгляд на мир», 1951)"
 ---
