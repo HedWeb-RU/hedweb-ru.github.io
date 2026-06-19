@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="ru">
 
-{% include head.html nopicture=true %}
+{% if page.preview %}{% include head.html nopicture=false %}{% else %}{% include head.html nopicture=true %}{% endif %}
 
 <body>
 
